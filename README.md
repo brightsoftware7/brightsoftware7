@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Success Bright</h1>
-<h3 align="center">SWE (MERN Stack) & Blockchain Engineer | Writing Algorithm.</h3>
+<h3 align="center">Web & Mobile Developer 📱👨‍💻 | Coding Enthusiast 💻 | Daily Grind ♤ 🌟 | Continuous learning and evolving 📚 | Tech Enthusiast 🤓 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brightscript001&label=Profile%20views&color=0e75b6&style=flat" alt="brightscript001" /> </p>
 
