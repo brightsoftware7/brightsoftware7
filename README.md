@@ -1,4 +1,4 @@
-  <h1 align="center">Success Bright – Full-Stack Software Engineer</h1>
+  <h1 align="center">Success Bright – Senior Software Engineer</h1>
   <p align="center"><strong>Software craftsmanship through precision, scalability, and innovation.</strong></p>
 
   <section>
