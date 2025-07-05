@@ -38,15 +38,15 @@
   <section>
     <h2>Contact</h2>
     <p>Email: <a href="mailto:brightsuccess117@gmail.com">brightsuccess117@gmail.com</a></p>
-    <p>LinkedIn: <a href="https://www.linkedin.com/in/brightscript001" target="_blank">linkedin.com/in/brightscript001</a></p>
-    <p>Twitter: <a href="https://twitter.com/brightscript001" target="_blank">twitter.com/brightscript001</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/brightscript001" target="_blank">linkedin.com/in/brightsoftware</a></p>
+    <p>Twitter: <a href="https://twitter.com/brightscript001" target="_blank">twitter.com/_brightsoftware</a></p>
     <p>WhatsApp: <a href="https://wa.me/2347034199620" target="_blank">+234 703 419 9620</a></p>
   </section>
 
   <section>
     <h2>GitHub Stats</h2>
     <p align="left">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=brightscript001&show_icons=true&theme=default&hide_border=true" alt="brightscript001 Stats" />
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brightscript001&layout=compact&hide_border=true" alt="brightscript001 Top Languages" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=brightsoftware7&show_icons=true&theme=default&hide_border=true" alt="brightsoftware Stats" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brightsoftware7&layout=compact&hide_border=true" alt="brightsoftware Top Languages" />
     </p>
   </section>
